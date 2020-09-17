@@ -5,7 +5,9 @@
   "main": "index.js",
   "dependencies": {
     "axios": "^0.19.2",
-    "parcel-bundler": "^1.12.4"
+    "crypto-js": "^4.0.0",
+    "parcel-bundler": "^1.12.4",
+    "subtle-crypto": "0.0.0"
   },
   "devDependencies": {
     "sass": "^1.26.8"
